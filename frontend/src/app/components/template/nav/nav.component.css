@@ -1,0 +1,18 @@
+
+.sidenav{
+    
+    width:  200xp;
+}
+
+.sidenav a {
+    color: chartreuse;
+}
+
+.sidenave i {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: white;
+}
